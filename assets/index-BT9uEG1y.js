@@ -104,7 +104,6 @@ Error generating stack: `+d.message+`
         Fingers crossed 🤞 that we get to live that magic again someday.<br /><br />
 
         <span class="highlight center-line">With our new Virgo, same chaos… and the same us.</span><br/>
-        <span class="center-line">-> External: Need to add at the end (don't forget)</span><br />
         `,`<p>
             <span class="emphasis-line">Pace won’t always be the same.</span><br />
             I know we faced a lot — a *lottt* of mental challenges.<br />
